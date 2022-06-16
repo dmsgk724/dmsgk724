@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=Parkeunha&font-size=90)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=EunHa-Park&font-size=90)
 
                                                       
   <h1 align="center">Tech Stack</h1>

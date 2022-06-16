@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ParkEunHa&fontSize=90)
                                                       
-  <h1>Tech Stack</h1>
+  <h1>💪Tech Stack💪</h1>
   <p align="center>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;
-<hr>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmsgk724)](https://github.com/anuraghazra/github-readme-stats)
-
-  </p>
+</p>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmsgk724)

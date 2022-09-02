@@ -11,8 +11,10 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsgk010724)](https://solved.ac/dmsgk010724/)
+
 
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmsgk724)
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsgk010724)](https://solved.ac/dmsgk010724/)

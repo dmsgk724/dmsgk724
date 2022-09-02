@@ -17,7 +17,7 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsgk010724">
 About Me <br>
-🌱 I’m currently majored in computer science and engineering in POSTECH.<br>
+🌱 I’m currently majoring in computer science and engineering in POSTECH.<br>
 <br>
 Experience <br>
 🔥 Kedutech Internship (2021.07~2021.9) <br>

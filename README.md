@@ -12,12 +12,13 @@
 </p>
 
 <br>
-- About Me
-🌱 I’m currently majored in computer science and engineering in POSTECH.
-🚅 My hometown is Daegu in Korea.
-- Experience
-🔥 Kedutech Internship (2021.07~2021.9)
-🔥 Samsung Electronics Summer Internship (2022.07~2022.08)
+
 
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsgk010724">
+About Me <br>
+🌱 I’m currently majored in computer science and engineering in POSTECH.<br>
+🚅 My hometown is Daegu in Korea. <br><br>
+Experience <br>
+🔥 Kedutech Internship (2021.07~2021.9) <br>
+🔥 Samsung Electronics Summer Internship (2022.07~2022.08)

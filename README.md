@@ -1,6 +1,6 @@
 
- <h1 align="center">Tech Stack</h1>
-  <p align="center">
+ <h1 align="left">Tech Stack</h1>
+  <p align="left">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp;
@@ -12,4 +12,12 @@
 </p>
 
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsgk010724)](https://solved.ac/dmsgk010724/)
+- About Me
+🌱 I’m currently majored in computer science and engineering in POSTECH.
+🚅 My hometown is Daegu in Korea.
+- Experience
+🔥 Kedutech Internship (2021.07~2021.9)
+🔥 Samsung Electronics Summer Internship (2022.07~2022.08)
+
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsgk010724">

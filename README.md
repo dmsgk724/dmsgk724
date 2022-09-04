@@ -1,4 +1,11 @@
+<h1 align="left">About Me</h1>
+🌱 I’m currently majoring in computer science and engineering in POSTECH.<br>
+<br>
+<h1 align="left">Experience</h1>
+🔥 Kedutech Internship (2021.07~2021.9) <br>
+🔥 Samsung Electronics Summer Internship (2022.07~2022.08)
 
+<br>
  <h1 align="left">Tech Stack</h1>
   <p align="left">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
@@ -10,15 +17,6 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;
 </p>
-
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsgk010724">
 <br>
 
-
-
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsgk010724">
-About Me <br>
-🌱 I’m currently majoring in computer science and engineering in POSTECH.<br>
-<br>
-Experience <br>
-🔥 Kedutech Internship (2021.07~2021.9) <br>
-🔥 Samsung Electronics Summer Internship (2022.07~2022.08)

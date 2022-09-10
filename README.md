@@ -2,8 +2,13 @@
 🌱 I’m currently majoring in computer science and engineering in POSTECH.<br>
 <br>
 <h1 align="left">Experience</h1>
-🔥 Kedutech Internship (2021.07~2021.9) <br>
-🔥 Samsung Electronics Summer Internship (2022.07~2022.08)
+🔥 Kedutech (Vmeeting) Internship (2021.07~2021.9) <br>
+🔥 Join ParkJangOH and do POCNIC project(2021.09~2021.12) <br>
+🔥 Lab Intern at CV lab(2022.01~2022.02)<br>
+🔥 Samsung Electronics Summer Internship (2022.07~2022.08) <br>
+🔥 TA of Introduction of artifical intelligence (AIGS-101)(2022)
+<h1 align="left">Award</h1>
+🔥 GLP scholarship of POSTECH CSE (2021/2022) <br>
 
 <br>
  <h1 align="left">Tech Stack</h1>

@@ -5,7 +5,7 @@
 🔥 Kedutech (Vmeeting) Internship (2021.07~2021.9) <br>
 🔥 Lab Intern at Computer Vision lab, POSTECH(2022.01~2022.02)<br>
 🔥 Lab Intern at CODE(Compiler Design and Optimization) Lab, POSTECH(2023.01~2023.06)<br>
-🔥 Samsung Electronics Summer Internship (2022.07~2022.08) <br>
+🔥 Samsung Electronics Summer Internship (Samsung Research 2022.07~2022.08) <br>
 🔥 TA of Introduction of artifical intelligence (AIGS-101)(2022)
 <h1 align="left">Award</h1>
 🔥 GLP scholarship of POSTECH CSE (2021/2022) <br>

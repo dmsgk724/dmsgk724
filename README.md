@@ -10,9 +10,6 @@
 <h1 align="left">Award</h1>
 🔥 GLP scholarship of POSTECH CSE (2021/2022) <br>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;
 </p>
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsgk010724">
 <br>
